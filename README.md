@@ -1,6 +1,6 @@
 # Wireless-macropad
 It's a basic 3x3 keyboard with bluetooth connectivity and a rotary encoder.
-## It features a:
+## It features a(n):
 - nrf52840 microcontroller
 - Seeed 106990290 lipo charger
 - EC11E Rotary Encoder w/ switch
