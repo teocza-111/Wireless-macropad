@@ -6,5 +6,5 @@ It's a basic 3x3 keyboard with bluetooth connectivity and a rotary encoder.
 - EC11E Rotary Encoder w/ switch
 - Li-Po Battery 1000mah
 # Media
-![Screenshot1](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Screenshot_1.png)
-![Screenshot2](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Screenshot_2.png)
+![Screenshot1](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Schematic-V2.png)
+![Screenshot2](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/PCB-V2.png)
