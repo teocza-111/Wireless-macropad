@@ -1,5 +1,5 @@
 # Wireless-macropad
-It's a basic 3x3 keyboard with bluetooth connectivity and a rotary encoder.
+It's a basic 3x3 keyboard with bluetooth connectivity and a rotary encoder built on ZMK firmware.
 ## It features a(n):
 - nrf52840 microcontroller
 - Seeed 106990290 lipo charger
