@@ -8,6 +8,6 @@ It's a basic 3x3 keyboard with bluetooth connectivity and a rotary encoder built
 ### Why?
 I like simracing but i needed some extra keybinds so i made my first vesion of this project but it was annoying that there was an extra cable on my desk so now im making it wireless.
 # Media
-![full.png](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/full.png)
+![full.png](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Full.png)
 ![Screenshot1](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Schematic-V2.png)
 ![Screenshot2](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/PCB-V2.png)
