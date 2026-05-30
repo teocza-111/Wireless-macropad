@@ -11,6 +11,8 @@ I like simracing but i needed some extra keybinds so i made my first vesion of t
 ![full.png](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Full.png)
 ![Screenshot1](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Schematic-V2.png)
 ![Screenshot2](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/PCB-V2.png)
+![build](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/IMG_20260524_121701.jpg)
+![build2](https://github.com/teocza-111/Wireless-macropad/blob/main/Media/Screenshot_20260524-121828_Settings.png)
 # BoM
 |Part Name                                                                                                            |Qty.|Cost (per part/batch) in PLN|Cost (total) in PLN|Link                                                |
 |---------------------------------------------------------------------------------------------------------------------|----|----------------------------|-------------------|----------------------------------------------------|
