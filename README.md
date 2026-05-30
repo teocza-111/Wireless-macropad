@@ -1,5 +1,7 @@
 # Wireless-macropad
 It's a basic 3x3 keyboard with bluetooth connectivity and a rotary encoder built on ZMK firmware.
+## Quick note for forge reviewers:
+This project was fully funded by stasis I'm moving this here since I plan to make my future projects on forge 
 ## It features a(n):
 - nrf52840 microcontroller
 - Seeed 106990290 lipo charger
