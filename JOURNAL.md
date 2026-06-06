@@ -71,3 +71,5 @@ _Time spent: 0.5h_
 
 Stasis generated the journal in reverse, that made it quite confusing to read, also the images were inserted twice into every journal entry for some reason.
 Rewrote the thing so it better explains what progress i've made every day, hope this is enough
+<img width="1569" height="888" alt="Zrzut ekranu (146)" src="https://github.com/user-attachments/assets/64d9e9c6-f6b3-4596-a9cb-dc915fe42667" />
+
